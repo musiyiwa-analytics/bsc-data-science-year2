@@ -1,1 +1,1 @@
-Mark file for deletion
+remove all content
