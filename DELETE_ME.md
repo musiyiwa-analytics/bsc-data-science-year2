@@ -1,1 +1,1 @@
-Delete mistakenly created file
+Mark file for deletion
